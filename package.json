@@ -1,5 +1,5 @@
 {
-  "name": "atvd04",
+  "name": "atvd",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "bootstrap": "^5.2.3",
+    "bootstrap-vue": "^2.23.1",
     "vue": "^3.2.47"
   },
   "devDependencies": {
